@@ -1,0 +1,111 @@
+﻿RETAILER_ID,RETAILER,REGION,STATE,CITY
+A00MOHCO,Amazon,Midwest,Ohio,Columbus
+A00NMAPO,Amazon,Northeast,Maine,Portland
+A00NMABO,Amazon,Northeast,Massachusetts,Boston
+A00NNEMA,Amazon,Northeast,New Hampshire,Manchester
+A00NVEBU,Amazon,Northeast,Vermont,Burlington
+A00SALBI,Amazon,South,Alabama,Birmingham
+A00SKELO,Amazon,Southeast,Kentucky,Louisville
+A00SNOCH,Amazon,Southeast,North Carolina,Charlotte
+A00WALAN,Amazon,West,Alaska,Anchorage
+F00MILCH,Foot Locker,Midwest,Illinois,Chicago
+F00MIODE,Foot Locker,Midwest,Iowa,Des Moines
+F00MKAWI,Foot Locker,Midwest,Kansas,Wichita
+F00MMIDE,Foot Locker,Midwest,Michigan,Detroit
+F00MMIMI,Foot Locker,Midwest,Minnesota,Minneapolis
+F00MMIST,Foot Locker,Midwest,Missouri,St. Louis
+F00MNEOM,Foot Locker,Midwest,Nebraska,Omaha
+F00MNOFA,Foot Locker,Midwest,North Dakota,Fargo
+F00MSOSI,Foot Locker,Midwest,South Dakota,Sioux Falls
+F00NCOHA,Foot Locker,Northeast,Connecticut,Hartford
+F00NDEWI,Foot Locker,Northeast,Delaware,Wilmington
+F00NMABA,Foot Locker,Northeast,Maryland,Baltimore
+F00NNEMA,Foot Locker,Northeast,New Hampshire,Manchester
+F00NNENE,Foot Locker,Northeast,New York,New York
+F00NPEPH,Foot Locker,Northeast,Pennsylvania,Philadelphia
+F00NRHPR,Foot Locker,Northeast,Rhode Island,Providence
+F00NWECH,Foot Locker,Northeast,West Virginia,Charleston
+F00SLONE,Foot Locker,South,Louisiana,New Orleans
+F00SMIJA,Foot Locker,South,Mississippi,Jackson
+F00STEKN,Foot Locker,South,Tennessee,Knoxville
+F00STEDA,Foot Locker,South,Texas,Dallas
+F00SFLMI,Foot Locker,Southeast,Florida,Miami
+F00SGEAT,Foot Locker,Southeast,Georgia,Atlanta
+F00SKELO,Foot Locker,Southeast,Kentucky,Louisville
+F00SSOCH,Foot Locker,Southeast,South Carolina,Charleston
+F00SVIRI,Foot Locker,Southeast,Virginia,Richmond
+F00WALAN,Foot Locker,West,Alaska,Anchorage
+F00WARPH,Foot Locker,West,Arizona,Phoenix
+F00WCALO,Foot Locker,West,California,Los Angeles
+F00WHAHO,Foot Locker,West,Hawaii,Honolulu
+F00WIDBO,Foot Locker,West,Idaho,Boise
+F00WWASE,Foot Locker,West,Washington,Seattle
+F00WWYCH,Foot Locker,West,Wyoming,Cheyenne
+K00MKAWI,Kohl's,Midwest,Kansas,Wichita
+K00MMIMI,Kohl's,Midwest,Minnesota,Minneapolis
+K00MMOBI,Kohl's,Midwest,Montana,Billings
+K00NDEWI,Kohl's,Northeast,Delaware,Wilmington
+K00NNENE,Kohl's,Northeast,New Jersey,Newark
+K00NNEAL,Kohl's,Northeast,New York,Albany
+K00SOKOK,Kohl's,South,Oklahoma,Oklahoma City
+K00WARPH,Kohl's,West,Arizona,Phoenix
+K00WCALO,Kohl's,West,California,Los Angeles
+K00WCASA,Kohl's,West,California,San Francisco
+K00WNEAL,Kohl's,West,New Mexico,Albuquerque
+K00WWYCH,Kohl's,West,Wyoming,Cheyenne
+S00MILCH,Sports Direct,Midwest,Illinois,Chicago
+S00MMIDE,Sports Direct,Midwest,Michigan,Detroit
+S00MMOBI,Sports Direct,Midwest,Montana,Billings
+S00MNEOM,Sports Direct,Midwest,Nebraska,Omaha
+S00MNOFA,Sports Direct,Midwest,North Dakota,Fargo
+S00MSOSI,Sports Direct,Midwest,South Dakota,Sioux Falls
+S00NCOHA,Sports Direct,Northeast,Connecticut,Hartford
+S00NMABA,Sports Direct,Northeast,Maryland,Baltimore
+S00NMABO,Sports Direct,Northeast,Massachusetts,Boston
+S00NNENE,Sports Direct,Northeast,New Jersey,Newark
+S00NNENE,Sports Direct,Northeast,New York,New York
+S00NRHPR,Sports Direct,Northeast,Rhode Island,Providence
+S00SALBI,Sports Direct,South,Alabama,Birmingham
+S00SMIJA,Sports Direct,South,Mississippi,Jackson
+S00STEKN,Sports Direct,South,Tennessee,Knoxville
+S00STEDA,Sports Direct,South,Texas,Dallas
+S00STEHO,Sports Direct,South,Texas,Houston
+S00SFLMI,Sports Direct,Southeast,Florida,Miami
+S00SFLOR,Sports Direct,Southeast,Florida,Orlando
+S00SGEAT,Sports Direct,Southeast,Georgia,Atlanta
+S00SNOCH,Sports Direct,Southeast,North Carolina,Charlotte
+S00SSOCH,Sports Direct,Southeast,South Carolina,Charleston
+S00SVIRI,Sports Direct,Southeast,Virginia,Richmond
+S00WHAHO,Sports Direct,West,Hawaii,Honolulu
+S00WIDBO,Sports Direct,West,Idaho,Boise
+S00WNEAL,Sports Direct,West,New Mexico,Albuquerque
+W00NNENE,Walmart,Northeast,New York,New York
+W00SARLI,Walmart,South,Arkansas,Little Rock
+W00SMIJA,Walmart,South,Mississippi,Jackson
+W00STEHO,Walmart,South,Texas,Houston
+W00SFLOR,Walmart,Southeast,Florida,Orlando
+W00WHAHO,Walmart,West,Hawaii,Honolulu
+W00MININ,West Gear,Midwest,Indiana,Indianapolis
+W00MIODE,West Gear,Midwest,Iowa,Des Moines
+W00MMIST,West Gear,Midwest,Missouri,St. Louis
+W00MOHCO,West Gear,Midwest,Ohio,Columbus
+W00MWIMI,West Gear,Midwest,Wisconsin,Milwaukee
+W00NMAPO,West Gear,Northeast,Maine,Portland
+W00NMABA,West Gear,Northeast,Maryland,Baltimore
+W00NNEAL,West Gear,Northeast,New York,Albany
+W00NPEPH,West Gear,Northeast,Pennsylvania,Philadelphia
+W00NVEBU,West Gear,Northeast,Vermont,Burlington
+W00NWECH,West Gear,Northeast,West Virginia,Charleston
+W00SARLI,West Gear,South,Arkansas,Little Rock
+W00SLONE,West Gear,South,Louisiana,New Orleans
+W00SOKOK,West Gear,South,Oklahoma,Oklahoma City
+W00STEHO,West Gear,South,Texas,Houston
+W00SFLMI,West Gear,Southeast,Florida,Miami
+W00SFLOR,West Gear,Southeast,Florida,Orlando
+W00WCASA,West Gear,West,California,San Francisco
+W00WCODE,West Gear,West,Colorado,Denver
+W00WIDBO,West Gear,West,Idaho,Boise
+W00WNELA,West Gear,West,Nevada,Las Vegas
+W00WORPO,West Gear,West,Oregon,Portland
+W00WUTSA,West Gear,West,Utah,Salt Lake City
+W00WWASE,West Gear,West,Washington,Seattle
